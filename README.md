@@ -7,7 +7,6 @@
 
 
 <code>
-    
     <!DOCTYPE html>
     <html lang="en">
     <head>
@@ -26,7 +25,6 @@
     <h1>SOURCE TREE PRACTICE</h1>
     <h2>main</h2>
     <p>new feature</p>
-
     <h2>VSCODE GIT</h2>
     <h3>TERMINAL GIT</h3>
     </body>
